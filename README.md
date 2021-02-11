@@ -8,5 +8,5 @@
 
 
 <a href="https://github.com/uneeq">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uneeq&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue&count_private=true&hide=stars,contribs">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uneeq&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=default&count_private=true&hide=stars,contribs">
 </a>
